@@ -1,5 +1,5 @@
 # 💫 About Me:
-Laravel-focused Full-Stack Developer with 2+ years building secure, responsive web apps using PHP/Laravel, MySQL, and REST <br>APIs; MERN experience from prior internship. Shipped features across authentication, role-based access, API integrations, and <br>performance tuning; known for rigorous code reviews and test-driven fixes. Committed to clean architecture and code. <br>Specialties: Laravel (Eloquent, Blade, Queues), REST APIs, MySQL, React, Node.js, Git, Unit Testing 
+Laravel-focused Full-Stack Developer with 2.5+ years building secure, responsive web apps using PHP/Laravel, MySQL, and REST <br>APIs; MERN experience from prior internship. Shipped features across authentication, role-based access, API integrations, and <br>performance tuning; known for rigorous code reviews and test-driven fixes. Committed to clean architecture and code. <br>Specialties: Laravel (Eloquent, Blade, Queues), REST APIs, MySQL, React, Node.js, Git, Unit Testing 
 
 
 ## 🌐 Socials:
